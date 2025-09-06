@@ -1,0 +1,21 @@
+1 - Há um publico alvo significativo para jogos em um estilo indie, pixel-art, platformers e top-down.
+2 - Esse público-alvo é composto, em sua maioria, por jovens.
+3 - Esse público tem conhecimento de jogos de plataforma 
+4 - Pessoas que gostam de um desses jogos tendem a gostar dos outros jogos listados.
+5 - Cyberpunk é uma ambientacao famosa entre jogadores de videogame
+6 - O público-alvo aprecia quando um jogo não precisa de nenhuma instalação extra.
+7 - O público-alvo aprecia o estilo cyberpunk.
+8 - Jogos de videogame são a mídia cultural mais impactante para transmitir uma crítica ou narrativa.
+9 - Jogos mobile são mais populares do que jogos de PC.
+10 - Jogos de PC são mais impactantes do que jogos mobile.
+11 - O público-alvo aprecia quebras de quarta parede.
+12 - O público-alvo aprecia referências a outros jogos (por exemplo, de algum dos jogos listados) em algo que estejam jogando.
+13 - O público alvo tem conhecimento de mecânicas de jogos no estilo de plataforma 
+14 - O público-alvo tem preferência por personagens principais masculinos.
+15 - A maior parte do público-alvo é composta de homens.
+16 - O público-alvo se encontra, em sua maioria, na plataforma Windows.
+17 - O público-alvo prefere jogar com personagens femininos
+18 - O público-alvo já usou o Github para baixar um jogo.
+19 - O público-alvo acredita que todo jogo precisa de uma história elaborada.
+20 - O público-alvo acredita que a gameplay é a parte mais importante de um jogo.
+21 - Godot é uma engine didatica e de facil aprendizado

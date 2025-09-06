@@ -1,0 +1,23 @@
+Semana 3
+
+Fáceis (30XP)
+1. Escrever roteiro da apresentação (dividido entre os membros).
+2. Selecionar imagens finais para slides.
+4. Preparar resumo de mecânicas em bullet points.
+5. Criar slide de referências (jogos, artes).
+6. Criar slide com identidade visual (paleta de cores, tipografia).
+7. Criar slide de inimigos (resumo).
+8. Criar slide de bosses (resumo).
+9. Criar slide de HUD/interface.
+
+Médias (60XP)
+11. Montar trabalho para apresentação (10–12 slides).
+14. Criar protótipo visual refinado da fase 1.
+15. Criar “timeline” do projeto (3 semanas resumidas).
+
+Difíceis (120XP)
+16. Criar storyboard completo da apresentação (quem fala o quê).
+17. Criar vídeo/animatic simples para ilustrar gameplay (ex: PowerPoint animado).
+
+Muito Difíceis (180XP)
+20. Criar vídeo curto (até 30s) de pitch “teaser” do jogo para slide final.

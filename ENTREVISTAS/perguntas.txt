@@ -1,0 +1,39 @@
+Bom dia/Boa tarde/Boa noite, eu sou o *NOME ENTREVISTADOR*, irei conduzir essa entrevista. A ideia dessa entrevista é entendermos melhor a relação das pessoas com os videogames, a fim de direcionar nossa equipe no desenvolvimento de um jogo.
+Antes de começarmos a entrevista, gostaria de falar que ela está sendo gravada e será utilizada apenas internamente. Você está de acordo? 
+*se sim começa a entrevista*
+
+-Qual o seu nome, quantos anos você tem?  //Nome sera removido na transcrição
+
+1.Com qual frequência você joga videogames? 
+
+2.Quais plataformas você usa mais (celular, PC, console, outros)?
+
+3.Você tem um gênero de jogo preferido (ação, aventura, RPG, esportes, simuladores, puzzle, outros)?
+
+4.O que te fez jogar o último jogo que você jogou? 
+
+5.O que mais te atrai em um jogo: a história, os gráficos, a jogabilidade, a competição, a interação com amigos, ou outra coisa?
+
+6.Você prefere jogos mais simples e casuais ou experiências mais complexas e imersivas?
+
+7.
+  7.1- O que você mais gosta em jogos single player?
+  7.2- O que você mais gosta em jogos multiplayer?
+  7.3-Se você pudesse escolher entre um desses modos de jogo, qual você escolheria? Porque? 
+
+8.O que você espera da IA em um jogo: tornar os personagens mais desafiadores, ajudar o jogador, criar histórias únicas, uma experiência totalmente personalizavel ou outra coisa?
+
+9.Você se interessaria em testar um novo jogo que implementa IA em mecânicas de história e gameplay de maneira inovadora?
+
+10.Prefere jogos com histórias fixas e roteirizadas ou narrativas que mudam de acordo com seu estilo de jogo?
+
+11.Você já se sentiu “excluído” ou desmotivado por não ter afinidade com jogos muito técnicos ou exigentes?
+
+12.Você se considera uma pessoa mais “competitiva” ou mais “exploradora/curiosa” nos jogos?
+
+13.Para você, é mais importante que um jogo seja divertido logo de início ou que ele tenha uma curva de aprendizado mais lenta e profunda?
+
+14.Você gostaria de ver mais diversidade de personagens, cenários e estilos nos jogos?
+
+
+Obrigado por participar.

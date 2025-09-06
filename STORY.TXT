@@ -1,0 +1,60 @@
+FASES:
+
+-> Catman Begins
+1° fase na qual o protagonista (que tem aparência felina, de onde vem Catman) precisa atravessar vários obstáculos em seu caminho para chegar à World Machine (na qual está localizada o Relógio Universal). Ao final da fase, ele encontra 2 triângulos (o da direita e o da esquerda) e entra na World Machine.
+
+-> A Gear in Time
+2° fase na qual o protagonista precisa restaurar a engrenagem principal do Relógio Universal para o seu lugar original, restaurando assim o fluxo do tempo e obtendo o 3° triângulo (do topo).
+
+-> Yokai Slayer
+3º fase na qual o protagonista é desafiado pelo Rei dos Youkais, San, que o enxerga como uma ameaça à existência dos Youkais. O protagonista é invariavelmente derrotado e enviado para o Mundo dos Sonhos.
+
+-> Do Cats Dream of Electric Sheep?
+4° fase na qual o jogador precisa coletar as 3 chaves da Porta dos Sonhos e derrotar Mado para voltar à realidade e conseguir o 4° triângulo (o triângulo da escuridão).
+
+-> Tower of God
+5° fase na qual o protagonista precisa coletar todos os Sóis (lâmpadas de OneShot) para iluminar o mundo a partir da Torre de Deus e obter o 5° triângulo (o triângulo da revelação, composto pelos outros 4 triângulos). Após sair do mundo dos sonhos, o protagonista não tem mais armas.
+
+-
+
+BOSSES:
+
+-> Solid Metal Gear
+Boss da segunda fase que toma dano apenas de um determinado tipo de líquido. Ele é a engrenagem principal do Relógio Universal que foi apropriada pelos Youkais, interrompendo o fluxo do tempo.
+
+-> San
+San(s). Boss da 3° fase que sente que a existência dos Youkais está em risco em virtude das ações do protagonista. Ele não pode ser derrotado e envia o protagonista para o mundo dos sonhos depois de um tempo em batalha.
+
+-> Mado
+Boss da 4° fase que busca manter o jogador dentro do mundo dos sonhos por se sentir solitária.
+
+-> Khara, Noelly, Flower, San, Blue
+As 5 potestades dos Youkais que tentam impedir o protagonista de conseguir reunir todos os fragmentos solares e re-iluminar o mundo, trazendo o fim do reino dos Youkais sobre a Terra e o re-estabelecimento da Era dos Mortais.
+
+-
+
+OBJETOS:
+
+-> Pentaforce
+Triforce de Zelda, mas com "5" triângulos: os 3 regulares, o triângulo escuro do meio, e o triângulo formado pelos demais triângulos. Ao reunir os 5 triângulos e formar a Pentaforce, o protagonista será capaz de restaurar o domínio dos mortais sobre a Terra, após re-estabelecer o fluxo do tempo e re-iluminar o mundo.
+
+-> Três Chaves
+São as 3 chaves necessárias para abrir a Porta dos Sonhos.
+
+-> Liquid Snake
+Essência (líquida) de veneno de cobra necessária para causar dano ao Solid Metal Gear.
+
+-> Fragmento Solar
+Partes do Sol que um dia iluminou o mundo do topo da Torre de Deus.
+
+-
+
+TÍTULO: 
+
+Penta Gear 5: The Phantom Menace
+
+
+
+
+
+

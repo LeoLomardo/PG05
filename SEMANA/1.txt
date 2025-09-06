@@ -1,0 +1,31 @@
+Semana 1
+
+Fáceis (30XP)
+1. Criar rascunho do jogo.
+2. Definir tema estético do jogo.
+4. Listar 3 jogos de referência com screenshots.
+6. Estabelecer o ataque principal do personagem.
+7. Definir esquema de cores principal.
+8. Fazer quadro com ideias de inimigos básicos.
+9. Esboçar layout da tela do jogo (papel/digital).
+10. Estabelecer o layout de controles do jogo.
+11. Formular 5-10 perguntas para a entrevista.
+12. Montar Formulário
+
+Médias (60XP)
+1. Escrever um roteiro de entrevista buscando saber se nosso estilo será bem recebido pelo público alvo
+2. Escrever documento de mecânicas adicionais (dash, escudo, itens, habilidades)
+3. Montar a narrativa base do jogo.
+4. Esboçar wireframe das 5 fases.
+5. Entrevistar 5 pessoas
+
+
+Difíceis (120XP)
+1. Montar moodboard com referências visuais.
+2. Criar design conceitual de um boss (visual + padrões de ataque).
+3. Tabela detalhada de inimigos por fase.
+4. Transcrever entrevistas ( as suas 5 entrevistas) 
+
+Muito Difíceis (180XP)
+1. Prototipar interface visual no Figma/Canva.
+2. Criar apresentação inicial (pitch deck base).

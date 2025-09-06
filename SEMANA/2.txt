@@ -1,0 +1,21 @@
+Semana 2
+
+Fáceis (30XP)
+1. Revisar narrativa (expandir em 1 página).
+2. Criar breve descrição de cada fase (ambiente/tema).
+3. Nomear cada fase e chefe.
+4. Definir música das fases.
+5. Introduzir efeitos visuais.
+6. Criar descrição para HUD (pontuação, vidas, etc.).
+
+Médias (60XP)
+12. Criar wireframes refinados de HUD.
+15. Prototipar esboço da tela inicial/menu.
+
+Difíceis (120XP)
+18. Criar storyboard visual de um boss fight.
+19. Mockup de uma fase completa com inimigos posicionados.
+
+Muito Difíceis (180XP)
+20. Criar protótipo visual navegável (Figma/Canva/PowerPoint interativo).
+21. Montar versão quase final da apresentação (com imagens ilustrativas).

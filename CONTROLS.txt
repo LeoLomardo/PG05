@@ -1,0 +1,40 @@
+PLATFORMER:
+
+WASD: Movimento
+SPACE: Jump
+SHIFT: Run
+LEFT-CLICK: Ataque
+RIGHT-CLICK: Opcional para Item/Habilidade
+MIDDLE-CLICK: Opcional para trocar de Item/Habilidade
+
+-
+
+TOP-DOWN:
+
+WASD: Movimento
+SPACE: Opcional para Dash/Escudo
+SHIFT: Run
+LEFT-CLICK: Ataque
+RIGHT-CLICK: Opcional para Item/Habilidade
+MIDDLE-CLICK: Opcional para Trocar de Item/Habilidades
+
+-
+
+OUTRAS:
+
+ESC: Menu
+R: Resetar fase
+
+-
+
+CONTROL SCHEME PARA JOYSTICK (Layout Playstation):
+
+ANALOGICO: Movimento
+X: Jump
+QUADRADO: Ataque
+L2: Run
+L1: Dash/Shield
+R2: Item/Habilidade
+R1: Trocar Item/Habilidade
+START: Menu
+SELECT: Resetar fase
